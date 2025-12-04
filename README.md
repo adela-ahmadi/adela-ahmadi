@@ -9,7 +9,7 @@
   Full-Stack Developer | Clean, efficient, and user-focused code
 -->
  <p align="center">
-  <img src="./logo.png" alt="Adela Logo" width="250" />
+  <img src="./logo.png" alt="Adela Logo" width="400" />
 </p>
 
 <h1 align="center">
