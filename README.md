@@ -10,7 +10,7 @@
 -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/adela-ahmadi/adela-ahmadi/main/logo.png" alt="Adela Logo" width="180" />
+  <img src="./logo.jpeg" alt="Adela Logo" width="180" />
 </p>
 
 <h1 align="center">
@@ -70,8 +70,8 @@
 ### 🤝 Let's Connect
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adela.ahamdi1382@gmail.com)
-[![X (Twitter)](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/adela_ahmadi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/adela-ahmadi) *(optional)*
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/Adela_786)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/adela-ahmadi) 
 
 ---
 
