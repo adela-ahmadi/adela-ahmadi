@@ -8,11 +8,15 @@
                                                     
   Full-Stack Developer | Clean, efficient, and user-focused code
 -->
-  <img align="center" src="./logo.png" alt="Adela Logo" width="300" />
-  
-  <span align="center" style="font-family: 'Segoe UI', 'Helvetica Neue', sans-serif; color: #4FC08D;">
+ <p align="center">
+  <img src="./logo.png" alt="Adela Logo" width="250" />
+</p>
+
+<h1 align="center">
+  <span style="font-family: 'Segoe UI', 'Helvetica Neue', sans-serif; color: #4FC08D;">
     Adela Ahmadi
   </span>
+</h1>
 
 
 <h3 align="center">Full-Stack Developer • Building modern web apps from UI to database</h3>
