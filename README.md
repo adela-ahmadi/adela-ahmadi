@@ -10,7 +10,7 @@
 -->
 
 <p align="center">
-  <img src="./logo.jpeg" alt="Adela Logo" width="180" />
+  <img src="./logo.png" alt="Adela Logo" width="200" />
 </p>
 
 <h1 align="center">
