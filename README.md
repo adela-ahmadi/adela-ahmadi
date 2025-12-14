@@ -1,76 +1,97 @@
-<!-- 
+<!--
   ██████╗ ██╗   ██╗████████╗██╗  ██╗ ██████╗ ███╗   ██╗
   ██╔══██╗██║   ██║╚══██╔══╝██║  ██║██╔═══██╗████╗  ██║
   ██████╔╝██║   ██║   ██║   ███████║██║   ██║██╔██╗ ██║
   ██╔══██╗██║   ██║   ██║   ██╔══██║██║   ██║██║╚██╗██║
   ██████╔╝╚██████╔╝   ██║   ██║  ██║╚██████╔╝██║ ╚████║
   ╚═════╝  ╚═════╝    ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝
-                                                    
-  Full-Stack Developer | Clean, efficient, and user-focused code
+
+  Full-Stack Developer | Clean architecture • Real-world solutions • Long-term maintainability
 -->
- <p align="center">
-  <img src="./logo.png" alt="Adela Logo" width="300" />
+
+<p align="center">
+  <img src="./logo.png" alt="Adela Ahmadi Logo" width="260" />
 </p>
 
-
-
-
-<h3 align="center">Full-Stack Developer • Building modern web apps from UI to database</h3>
+<h2 align="center">Adela Ahmadi</h2>
+<h4 align="center">Full-Stack Developer • From pixel-perfect UI to reliable backend systems</h4>
 
 <p align="center">
   <a href="https://github.com/adela-ahmadi">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4FC08D&center=true&vCenter=true&width=500&lines=Crafting+UIs+with+React+%26+Tailwind;Building+APIs+with+Node.js;Designing+robust+data+with+PostgreSQL+%26+MongoDB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=4FC08D&center=true&vCenter=true&width=520&lines=Full-Stack+Web+Developer;React+%26+Tailwind+for+modern+UIs;Node.js+%26+REST+APIs;PostgreSQL+%26+MongoDB+data+design" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-### 🧑‍💻 My Stack
+### 👋 About Me
 
-- **Frontend**: HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React  
-- **Backend**: Node.js, RESTful APIs  
-- **Databases**: PostgreSQL, MongoDB  
-- **Tools**: Git, GitHub, npm, Postman
+I’m a **Full-Stack Developer** who enjoys building web applications that are not only functional today but also easy to maintain and scale tomorrow. I care deeply about **clean architecture**, **readable code**, and **user-centered design**.
 
 ---
 
-### 🛠️ Tech Showcase
+### 🧑‍💻 Tech Stack
+
+**Frontend**
+
+* HTML5, CSS3, JavaScript (ES6+)
+* React, Tailwind CSS, Bootstrap
+
+**Backend**
+
+* Node.js
+* RESTful API design
+
+**Databases**
+
+* PostgreSQL
+* MongoDB
+
+**Tools & Workflow**
+
+* Git & GitHub
+* npm
+* Postman
+
+---
+
+### 🛠️ Technology Snapshot
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nodejs,postgres,mongodb,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,postgres,mongodb,git,github" />
 </p>
+
+---
+
+### 🚀 What I’m Working On
+
+* Building **production-ready full-stack projects**
+* Designing **secure, well-documented APIs**
+* Improving **performance, accessibility, and responsive UX**
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adela-ahmadi&show_icons=true&theme=dark&count_private=true&include_all_commits=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adela-ahmadi&layout=compact&theme=dark" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adela-ahmadi&show_icons=true&theme=dark&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adela-ahmadi&layout=compact&theme=dark&hide_border=true" height="160" />
 </p>
 
 ---
 
-### 🌱 Currently
-
-- Building full-stack applications with **clean architecture**
-- Focusing on **secure, maintainable, and well-documented APIs**
-- Improving UX with responsive, accessible frontend components
+> 💡 *I focus on writing code that stays understandable, testable, and useful long after the first release.*
 
 ---
 
-> 💡 **I write code that works today — and still makes sense a year from now.**
+### 🤝 Let’s Connect
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat\&logo=gmail\&logoColor=white)](mailto:adela.ahamdi1382@gmail.com)
+[![X](https://img.shields.io/badge/X-000000?style=flat\&logo=x\&logoColor=white)](https://x.com/Adela_786)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/adela-ahmadi)
 
 ---
 
-### 🤝 Let's Connect
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adela.ahamdi1382@gmail.com)
-[![X (Twitter)](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/Adela_786)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/adela-ahmadi) 
-
----
-
-<div align="center">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=adela-ahmadi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
+</p>
