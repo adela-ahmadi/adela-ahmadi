@@ -27,7 +27,7 @@
 
 ### 🧑‍💻 My Stack
 
-- **Frontend**: HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React  
+- **Frontend**: HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React, 
 - **Backend**: Node.js, RESTful APIs  
 - **Databases**: PostgreSQL, MongoDB  
 - **Tools**: Git, GitHub, npm, Postman
@@ -37,7 +37,7 @@
 ### 🛠️ Tech Showcase
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nodejs,postgres,mongodb,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,typescript,nodejs,postgres,mongodb,git,github" />
 </p>
 
 ---
@@ -45,7 +45,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adela-ahmadi&show_icons=true&theme=dark&count_private=true&include_all_commits=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adela-ahmadi&show_icons=true&theme=dark&count_private=true&include_all_commits=true" height="160" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adela-ahmadi&layout=compact&theme=dark" height="160" />
 </p>
 
@@ -74,5 +74,4 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=adela-ahmadi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
-این ها کدهای فایل READMEs هست 
-تغیرات که بنظرت موثر هست رو اپدیت کن به شرطی که خراب نکنی و استندرد شو بالا ببر
+
