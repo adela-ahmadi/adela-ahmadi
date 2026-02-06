@@ -8,13 +8,6 @@
                                                     
   Full-Stack Developer | Clean, efficient, and user-focused code
 -->
- <p align="center">
-  <img src="./logo.png" alt="Adela Logo" width="300" />
-</p>
-
-
-
-
 <h3 align="center">Full-Stack Developer • Building modern web apps from UI to database</h3>
 
 <p align="center">
